@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/PracticeLinqGroupJoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/PracticeLinqGroupJoin.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/PracticeLinqGroupJoin.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/PracticeLinqGroupJoin.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/bin/Debug/net9.0/PracticeLinqGroupJoin
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/bin/Debug/net9.0/PracticeLinqGroupJoin.deps.json
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/bin/Debug/net9.0/PracticeLinqGroupJoin.runtimeconfig.json
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/bin/Debug/net9.0/PracticeLinqGroupJoin.dll
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/bin/Debug/net9.0/PracticeLinqGroupJoin.pdb
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/PracticeLinqGroupJoin.dll
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/refint/PracticeLinqGroupJoin.dll
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/PracticeLinqGroupJoin.pdb
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/PracticeLinqGroupJoin.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/Projeler/PraticLinqGroupJoin/PracticeLinqGroupJoin/obj/Debug/net9.0/ref/PracticeLinqGroupJoin.dll
